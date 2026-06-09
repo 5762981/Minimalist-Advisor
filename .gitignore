@@ -6,5 +6,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+.python-version
+
 .DS_Store
 Thumbs.db
