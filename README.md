@@ -13,11 +13,11 @@
 서비스 기획 배경, 시스템 아키텍처, 향후 멀티모달(Vision AI) 고도화 방안 등 프로젝트에 대한 상세한 내용은 첨부된 `AI 스타트업 프로젝트 과제 기획서_계명대 곽윤경.pdf` 슬라이드와 `AI 기술을 활용한 실감미디어 프로젝트 기획서_계명대 곽윤경.pdf`를 참고해 주세요.
 
 ## 로컬 실행 방법
-# 1. 라이브러리 설치
+### 1. 라이브러리 설치
 pip install -r requirements.txt
 
-# 2. 최상단 디렉토리에 .env 파일 생성 후 API 키 입력
+### 2. 최상단 디렉토리에 .env 파일 생성 후 API 키 입력
 OPENAI_API_KEY=sk-본인의API키
 
-# 3. Streamlit 앱 실행
+### 3. Streamlit 앱 실행
 streamlit run main.py
